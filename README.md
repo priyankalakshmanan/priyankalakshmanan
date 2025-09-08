@@ -21,7 +21,7 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
 
-## Let's Connect & Grow Together
+## Let's Connect
 <a href="https://www.linkedin.com/in/priyanka-lakshmanan-082604144/" target="_blank">
   <img width="25" height="25" alt="LinkedIn" src="https://github.com/user-attachments/assets/529bab2b-d3e3-4a03-8194-30fc364d0a38" />
 </a>
