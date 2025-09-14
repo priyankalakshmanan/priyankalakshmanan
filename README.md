@@ -1,7 +1,7 @@
 # Hey there 👋
 ## I’m Priyanka Lakshmanan, a DevOps Practitioner
 
-- 🌱 I’m upskilling in all areas of DevOps, that I learned and gained working experience during my tenure at IBM and beyond.  
+- 🌱 I’m upskilling in all areas of DevOps, that I learned and gained experience during my tenure at IBM and beyond.  
 - ⚡ My skills include Containerization, Orchestration, CI/CD Pipelines, Configuration Management, Infrastructure as Code, Cloud Computing, Linux, and Python.  
 - 🔭 I'm currently on a short career break, awaiting employment authorization in my new country.
 
