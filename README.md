@@ -3,7 +3,7 @@
 
 - 🌱 I’m upskilling in all areas of DevOps, that I learned and gained experience during my tenure at IBM and beyond.  
 - ⚡ My skills include Containerization, Orchestration, CI/CD Pipelines, Configuration Management, Infrastructure as Code, Cloud Computing, Linux, and Python.  
-- 🔭 I'm currently on a short career break, gearing up while I wait for employment authorization card in my new country.
+- 🔭 I'm currently on a short career break, gearing up while I wait for employment authorization in new country.
 
 ## Platforms & Technologies
 
